@@ -1,2 +1,8 @@
-# PowerBI
-This repository contains PowerBI project links. You can also recieve a link by messaging me at hmagouirk@cyberservices.com.
+># HMagouirk's PowerBI Portfolio   
+
+ >##  Welcome to my portfolio! 
+ 
+>**This code repository contains links to examples of PowerBI reports I've worked on.**
+
+>You can also receive a link by messaging me at hmagouirk@cyberservices.com
+                          
